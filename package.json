@@ -10,8 +10,8 @@
         "redis":"~0.10.1",
         "node-red": "0.x",
         "node-red-bluemix-nodes":"1.x",
-        "node-red-contrib-ui":"1.2.19"
-        "node-red-contrib-aggregator":"1.0.4" 
+        "node-red-contrib-ui":"1.2.19",
+        "node-red-contrib-aggregator":"1.0.4", 
         "node-red-node-watson":"0.x",
         "node-red-node-openwhisk":"0.x",
         "node-red-node-cf-cloudant":"0.x",
